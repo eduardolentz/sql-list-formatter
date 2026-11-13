@@ -17,14 +17,20 @@ Ferramenta simples em Python para limpar, validar, padronizar e formatar listas 
 
 ```text
 sql-list-formatter/
+│
 ├── src/
 │   └── main.py
+│
 ├── data/
 │   └── entrada.txt
+│
 ├── output/
+│
 ├── README.md
-├── .gitignore
-└── requirements.txt
+├── GUIA_DO_CODIGO.md
+├── GUIA_MARKDOWN_PARA_PDF.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ## Requisitos
